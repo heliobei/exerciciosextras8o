@@ -4,7 +4,9 @@ import ChapterCard from "./ChapterCard";
 const chapters = [
   { id: 1, title: "Como consumir de maneira sustentável?", teacherPdf: "/assets/pdfs/Educador_Capitulo_01_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_01_8o.pdf" },
   { id: 2, title: "Como não gastar mais do que deveríamos?", teacherPdf: "/assets/pdfs/Educador_Capitulo_02_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_02_8o.pdf" },
-  { id: 3, title: "", teacherPdf: "/assets/pdfs/Educador_Capitulo_03_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_03_8o.pdf" },
+  { id: 3, title: "Como faço para guardar dinheiro?", teacherPdf: "/assets/pdfs/Educador_Capitulo_03_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_03_8o.pdf" },
+  { id: 4, title: "De pouquinho em pouquinho se chega longe", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_8o.pdf" },
+  { id: 5, title: "Gastando com propósito", teacherPdf: "/assets/pdfs/Educador_Capitulo_05_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_05_8o.pdf" },
   
   // ... mais capítulos
 ];
