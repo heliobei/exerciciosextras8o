@@ -8,6 +8,9 @@ const chapters = [
   { id: 4, title: "De pouquinho em pouquinho se chega longe", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_8o.pdf" },
   { id: 5, title: "Gastando com propósito", teacherPdf: "/assets/pdfs/Educador_Capitulo_05_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_05_8o.pdf" },
   
+  { id: 6, title: "Uma celebração entre primos", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_8o.pdf" },
+  { id: 7, title: "A desigualdade econômica", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_8o.pdf" },
+  
   // ... mais capítulos
 ];
 
