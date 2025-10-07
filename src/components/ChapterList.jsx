@@ -10,6 +10,8 @@ const chapters = [
   
   { id: 6, title: "Uma celebração entre primos", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_8o.pdf" },
   { id: 7, title: "A desigualdade econômica", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_8o.pdf" },
+  { id: 8, title: "Construindo redes solidárias", teacherPdf: "/assets/pdfs/Educador_Capitulo_08_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_08_8o.pdf" },
+  { id: 9, title: "Planejando uma festa beneficente!", teacherPdf: "/assets/pdfs/Educador_Capitulo_09_8o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_09_8o.pdf" },
   
   // ... mais capítulos
 ];
